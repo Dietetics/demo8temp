@@ -6,6 +6,7 @@ Blablabla
 
 ## Fonctionnalités
 
+(voici un exemple, À modifié)
 - Parcourir l'ensemble des résidents
     - Visualiser la liste des résidents
     - Effectuer une recherche sur la liste des résidents
