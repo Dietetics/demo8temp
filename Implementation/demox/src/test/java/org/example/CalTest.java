@@ -11,7 +11,7 @@ class CalTest {
     public void testAdd() {
         Cal calculator = new Cal();
         int result = calculator.add(3, 5);
-        assertEquals(7, result, "Addition of 3 and 5 should be 8");
+        assertEquals(8, result, "Addition of 3 and 5 should be 8");
     }
 
     @Test
