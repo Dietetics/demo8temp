@@ -20,4 +20,4 @@ jobs:
 
       - name: Run tests with Maven
         run: mvn test
-        working-directory: ./Implementation/demo11_calculator
+        working-directory: ./Implementation/demox
